@@ -1,1 +1,8 @@
-# Nakupovalni-seznam
+# Nakupovalni seznam
+
+## Avtor
+
+* Ana Tepina
+
+## Opis 
+
